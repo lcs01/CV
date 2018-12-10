@@ -1,0 +1,77 @@
+body {
+    
+    background-color:beige;
+    
+    
+    
+}
+
+h1 {
+    
+    font-size:250%;
+   color:darkblue;
+   font : serif;
+    text-align: center;
+  
+    
+}
+
+h2{
+    
+    font-size:170%;
+    
+     color:darkblue;
+   font : serif;
+    text-align: center;
+    
+    
+}
+
+h3{
+    font-size:170%;
+    color:darkblue;
+   font-family: serif;
+    text-align: center;
+    
+    
+    
+    
+}
+
+h4 {
+       font-size:170%;
+     color:darkblue;
+   font : serif;
+    text-align: center;   
+}
+
+.Formation {
+    
+    font-family: cursive;
+    font-size:150%;
+    padding-left: 15rem;
+    
+    
+}
+
+.Experiences {
+  font-family: cursive;
+    font-size:150%;
+    padding-left: 15rem;  
+    
+}
+
+.Loisirs {
+    
+     font-family: cursive;
+    font-size:150%;
+    padding-left: 15rem;
+    
+    
+    
+}
+
+* html .group             { zoom: 1; } /* IE6 */
+*:first-child+html .group { zoom: 1; } /* IE7 */
+
+
