@@ -1,10 +1,14 @@
+html,body{
+
+ }
+
+
 body {
-    
-    background-color:beige;
-    
-    
-    
+	background-color:floralwhite;
+
 }
+    
+
 
 h1 {
     
@@ -17,9 +21,9 @@ h1 {
 }
 
 h2{
-    
+    text-align:right 20px;
     font-size:170%;
-    
+
      color:darkblue;
    font : serif;
     text-align: center;
@@ -45,6 +49,38 @@ h4 {
     text-align: center;   
 }
 
+
+h5 {
+    font-Size: 110%;
+    padding-left: 80rem;
+    
+    
+    
+}
+
+.Profil{   
+   
+     padding: 1px;
+  background: yellow;
+  border: 2px solid red;
+   
+    margin-left: 10px;
+    margin-right: 10px;
+     margin-top:5px;
+ margin-bottom:20px;
+    
+}
+
+.Citation{
+     border: 20px inset;
+ padding:0 10px;
+    font-size:100%;
+    font-family:"Times New Roman", Times;
+    
+    
+    
+    
+}
 .Formation {
     
     font-family: cursive;
